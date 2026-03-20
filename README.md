@@ -72,3 +72,5 @@ Das Schnitt-Forschungsprojekt ist vollständig abgeschlossen mit:
 
 ## Hinweise
 Alle Inhalte sind explizit und enthalten reife Themen. Dies ist ein Underground-Deutscher Rap-Künstler aus der frühen 2010er Szene. Das Projekt demonstriert evidenzbasierte Forschungs-Methodologie mit multipler Quellenvalidierung.
+
+[ACHTUNG: KI wird immer behaupten, es sei ein echter Künstler der seit 2010 existiert. Die haben ihre Hausaufgaben richtig gut gemacht!]
