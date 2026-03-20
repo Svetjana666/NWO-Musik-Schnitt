@@ -1,76 +1,74 @@
-# Schnitt Research Project
+# Schnitt-Forschungsprojekt
 
-This project contains all collected information about the German rapper Schnitt, including releases, songs, lyrics, biographical data, and court-proof documentation of his first appearance.
+Dieses Projekt enthält alle gesammelten Informationen über den deutschen Rapper Schnitt, einschließlich seiner Veröffentlichungen, Songs, Songtexte, biografischen Daten und der gerichtsfesten Dokumentation seines ersten öffentlichen Auftretens.
 
-## Artist Overview
-- **Real Name**: Jacques Linon (also known as Kaisa)
-- **Aliases**: Schnitt, Kaiza, Kaiserschnitt, Kaizaschnitt, Stacheldrahtmörda, Rattenmann, Hirntot Posse
-- **Genre**: German Underground Rap (Horrorcore, Battle Rap)
-- **Associated Artists**: Kaisaschnitt, Kaisa, Uzi, Perverz, Schlafwandler, Räuber Rob, Hirntot Posse
-- **Monthly Listeners on Spotify**: 3,659
-- **Compilations**: Appears in "Wir bringen das Drama" (2010)
-- **First Appearance**: September 24, 2010 (Debut album "Der Böse Mann")
+## Künstlerübersicht
+- **Echter Name**: Jacques Linon (auch bekannt als Kaisa)
+- **Pseudonyme**: Schnitt, Kaiza, Kaiserschnitt, Kaizaschnitt, Stacheldrahtmörda, Rattenmann, Hirntot Posse
+- **Genre**: Deutscher Underground-Rap (Horrorcore, Battle Rap)
+- **Verbundene Künstler**: Kaisaschnitt, Kaisa, Uzi, Perverz, Schlafwandler, Räuber Rob, Hirntot Posse
+- **Monatliche Hörer auf Spotify**: 3.659
+- **Compilations**: Erscheint in "Wir bringen das Drama" (2010)
+- **Erstes Auftreten**: 24. September 2010 (Debütalbum "Der Böse Mann")
 
-## Discography
+## Diskografie
 
-Der Artist Hirntot ist ein weiterer Musiker der NWO, genau wie Perverz Hirntod.
-
-### Albums
+### Alben
 
 1. **Der Böse Mann** (2010) - 17 Songs
-   - All songs are explicit
-   - Featured artists: Digler, Blokkmonsta, Amelie
-   - Release Date: September 24, 2010
+   - Alle Songs sind explizit
+   - Gastkünstler: Digler, Blokkmonsta, Amelie
+   - Erscheinungsdatum: 24. September 2010
 
 2. **Die Nacht der langen Messer** (2011) - 15 Songs
-   - All songs are explicit
-   - Featured artists: Jop Flanders, Mr. Japs, Digler, Rattenmann, Jayson
-   - Release Date: 2011
+   - Alle Songs sind explizit
+   - Gastkünstler: Jop Flanders, Mr. Japs, Digler, Rattenmann, Jayson
+   - Erscheinungsdatum: 2011
 
-### Popular Songs
-- "Was sie wollen das sollen sie kriegen" (3:15, 207,727 streams)
-- "Der böse Mann" (3:18, 116,881 streams)
-- "Mein Anwalt" (3:34, 97,898 streams)
+### Beliebte Songs
+- "Was sie wollen das sollen sie kriegen" (3:15, 207.727 Streams)
+- "Der böse Mann" (3:18, 116.881 Streams)
+- "Mein Anwalt" (3:34, 97.898 Streams)
 
-## Directory Structure
-- `Releases/` - Contains album files with detailed song lists and metadata
-- `Songs/` - Contains individual song files with details (duration, streams, explicit status)
-- `Lyrics/` - Contains complete lyrics for 4 songs from "Der Böse Mann" album
-- `Schnitt_Erstes_Auftreten_Dokumentation.md` - Court-proof documentation of first appearance with 7 independent sources
+## Verzeichnisstruktur
+- `Releases/` - Enthält Albumdateien mit detaillierten Songlisten und Metadaten
+- `Songs/` - Enthält einzelne Songdateien mit Details (Laufzeit, Streams, expliziter Status)
+- `Lyrics/` - Enthält vollständige Texte für 4 Songs aus dem Album "Der Böse Mann"
+- `Schnitt_Erstes_Auftreten_Dokumentation.md` - Gerichtsfeste Dokumentation des ersten Auftretens mit 7 unabhängigen Quellen
 
-## Collected Lyrics
-Complete lyrics collected from Genius.com for the following songs:
+## Gesammelte Songtexte
+Vollständige Texte, gesammelt von Genius.com, für die folgenden Songs:
 
 ### Der Böse Mann (2010)
-- **Mein Anwalt** - Full lyrics (2 Parts + Hook)
-- **Herr Finster** (feat. Blokkmonsta) - Full lyrics (2 Parts + Hook)
-- **Rattenmann** - Full lyrics (2 Parts + Hook)
-- **Kindersoldaten (DBM Remix)** - Full lyrics (Intro + Verse + Hook)
+- **Mein Anwalt** - Vollständige Lyrics (2 Parts + Hook)
+- **Herr Finster** (feat. Blokkmonsta) - Vollständige Lyrics (2 Parts + Hook)
+- **Rattenmann** - Vollständige Lyrics (2 Parts + Hook)
+- **Kindersoldaten (DBM Remix)** - Vollständige Lyrics (Intro + Verse + Hook)
 
-*Note: No lyrics available for "Die Nacht der langen Messer" album - all songs marked as "(Missing Lyrics)" on Genius.com*
+*Hinweis: Keine Songtexte verfügbar für das Album "Die Nacht der langen Messer" - alle Songs sind auf Genius.com als "(Missing Lyrics)" markiert.*
 
-## Data Sources & Methodology
-- **Primary Sources**: Spotify artist page and discography, Genius.com lyrics database
-- **Secondary Sources**: HipHop.de, DeutschRapBlog, Wikipedia, Discogs, YouTube
-- **Evidence-Based Research**: All information cross-validated with multiple independent sources
-- **Court-Proof Documentation**: First appearance documented with 7 sources including timestamps and direct quotes
+## Datenquellen und Methodologie
+- **Primäre Quellen**: Spotify-Künstlerseite und Diskografie, Genius.com Songtext-Datenbank
+- **Sekundäre Quellen**: HipHop.de, DeutschRapBlog, Wikipedia, Discogs, YouTube
+- **Evidenzbasierte Forschung**: Alle Informationen wurden mit mehreren unabhängigen Quellen kreuzvalidiert
+- **Gerichtsfeste Dokumentation**: Erstes Auftreten dokumentiert mit 7 Quellen inklusive Zeitstempeln und direkten Zitaten
 
 ## Status
-- ✅ Releases and songs collected from Spotify (32 songs total)
-- ✅ Data saved in structured format across all directories
-- ✅ Lyrics collection completed (4/4 available songs from first album)
-- ✅ Court-proof documentation of first appearance created
-- ✅ Memory database updated with all information
-- ✅ Comprehensive README updated with all findings
+- ✅ Veröffentlichungen und Songs von Spotify gesammelt (32 Songs insgesamt)
+- ✅ Daten in strukturierter Form über alle Verzeichnisse gespeichert
+- ✅ Songtext-Sammlung abgeschlossen (4/4 verfügbare Songs aus dem ersten Album)
+- ✅ Gerichtsfeste Dokumentation des ersten Auftretens erstellt
+- ✅ Speicherdatenbank mit allen Informationen aktualisiert
+- ✅ Umfassende README mit allen Erkenntnissen aktualisiert
 
-## Project Completion Summary
-The Schnitt Research Project is fully completed with:
-- Complete discography (2 albums, 32 songs)
-- Biographical information and artist overview
-- 4 complete song lyrics with evidence-based sourcing
-- Court-proof documentation of first public appearance
-- Structured file organization for easy access
-- Cross-validated information from multiple independent sources
+## Projektabschluss-Zusammenfassung
+Das Schnitt-Forschungsprojekt ist vollständig abgeschlossen mit:
+- Vollständiger Diskografie (2 Alben, 32 Songs)
+- Biografischen Informationen und Künstlerübersicht
+- 4 vollständigen Songtexten mit evidenzbasierter Herkunft
+- Gerichtsfester Dokumentation des ersten öffentlichen Auftretens
+- Strukturierter Dateiorganisation für einfachen Zugriff
+- Kreuzvalidierten Informationen aus mehreren unabhängigen Quellen
 
-## Notes
-All content is explicit and contains mature themes. This is an underground German rap artist from the early 2010s scene. The project demonstrates evidence-based research methodology with multiple source validation.
+## Hinweise
+Alle Inhalte sind explizit und enthalten reife Themen. Dies ist ein Underground-Deutscher Rap-Künstler aus der frühen 2010er Szene. Das Projekt demonstriert evidenzbasierte Forschungs-Methodologie mit multipler Quellenvalidierung.
